@@ -1,7 +1,4 @@
-# Kodluyoruz-DotNetCore
-Kodluyoruz DotNetCore eğitiminde yaptığım ödevler ve projeler.
-## C#
-### Variables
+# Variables
 C# da tanımlı olan değişkenleri yazdığım, hangi veri tipi için hangi değişkenleri kullanmamanın gerektiğini ve kullanımda ihtiyaca göre bellekte daha az yer kaplayan değişkenleri kullanmanın bellek kullanımı açısından daha performanslı olacağını öğrendim ve alıştırma yaptım.
 
 Çalışmanın bit kısmı aşağıda gösterilmiştir.
